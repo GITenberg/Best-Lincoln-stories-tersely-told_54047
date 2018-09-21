@@ -1,0 +1,25 @@
+_repo: Best-Lincoln-stories-tersely-told_54047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gallaher, J. E. (James Ernst)
+    alias: Gallaher, James Ernst
+    birthdate: 1858
+    gutenberg_agent_id: '47678'
+    url: http://www.gutenberg.org/2009/agents/47678
+description: ''
+gutenberg_issued: '2017-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54047'
+  lccn: '98000069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Anecdotes'
+- GITenberg
+title: Best Lincoln stories, tersely told
+url: http://www.gutenberg.org/ebooks/54047
